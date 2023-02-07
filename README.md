@@ -1,11 +1,11 @@
-# Youtube_Downloader
+Youtube_Downloader
 
 
-#This is a simple program that allows me download the audio from any Youtube video, load it into a S3 and email a
-# pre-signed link to my friends
+This is a simple program that allows me download the audio from any Youtube video, load it into a S3 and email a
+pre-signed link to my friends
 
-#AWS SERVICES S3 & Parameter Store Used
-#While this version can be retrofitted  for anyone an easier more up to date version will be created soon.
+AWS SERVICES S3 & Parameter Store Used
+While this version can be retrofitted  for anyone an easier more up to date version will be created soon.
 
 
 
